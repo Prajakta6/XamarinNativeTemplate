@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/empNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:maxLines="1"
+        android:layout_gravity="center_vertical"
+        android:text="Employee Name"
+        android:textSize="12dp"
+        android:textColor="@color/bright_foreground_material_light" />
+    <TextView
+        android:id="@+id/empPhoneTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:maxLines="1"
+        android:layout_gravity="center_vertical"
+        android:text="9856239856"
+        android:textSize="12dp"
+        android:textColor="@color/bright_foreground_material_light" />
+    <TextView
+        android:id="@+id/empDOBTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:maxLines="1"
+        android:layout_gravity="center_vertical"
+        android:text="1/1/2000"
+        android:textSize="10dp"
+        android:textColor="@color/blue_text_color" />
+    <TextView
+        android:id="@+id/empEmailTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:maxLines="1"
+        android:layout_gravity="center_vertical"
+        android:text="xyz@xyz.com"
+        android:textSize="10dp"
+        android:textColor="@color/blue_text_color" />
+    <Button
+        android:id="@+id/empCrashButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:maxLines="1"
+        android:layout_gravity="center_vertical"
+        android:text="xyz@xyz.com"
+        android:textSize="10dp"
+        android:textColor="@color/blue_text_color" />
+</LinearLayout>

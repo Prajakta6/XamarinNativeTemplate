@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "549881823802",
+    "firebase_url": "https://androidnotifications-4f445.firebaseio.com",
+    "project_id": "androidnotifications-4f445",
+    "storage_bucket": "androidnotifications-4f445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549881823802:android:c1929a25650691c9",
+        "android_client_info": {
+          "package_name": "com.silicus.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549881823802-0ojqf4v59d5ct73p3psb5fhv11jia1nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpSLXPjCFn52pIRovvqZYsZ154F-Zo-K0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

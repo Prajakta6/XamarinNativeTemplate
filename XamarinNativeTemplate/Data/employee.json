@@ -1,0 +1,30 @@
+﻿[
+    {
+      "Id": 101,
+      "Name": "Abc Test",
+      "EmailId": "abctest@gmail.com",
+      "Phone": "+91 1234567890",
+      "DOB": "03/12/1990"
+    },
+    {
+      "Id": 102,
+      "Name": "Pqr Test",
+      "EmailId": "pqrtest@gmail.com",
+      "Phone": "+91 5432167890",
+      "DOB": "06/12/1980"
+    },
+    {
+      "Id": 103,
+      "Name": "Xyz Test",
+      "EmailId": "xyztest@gmail.com",
+      "Phone": "+91 1234509876",
+      "DOB": "08/08/1984"
+    },
+    {
+      "Id": 104,
+      "Name": "Stu Test",
+      "EmailId": "stutest@gmail.com",
+      "Phone": "+91 1254367098",
+      "DOB": "02/09/1989"
+    }
+]

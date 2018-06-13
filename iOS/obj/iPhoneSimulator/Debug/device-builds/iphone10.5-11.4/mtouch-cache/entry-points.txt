@@ -1,0 +1,333 @@
+Function=xamarin_timezone_get_data
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/System.dll
+ObjectiveCClass=OBJC_CLASS_$_BITHockeyManager
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITAuthenticator
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITCrashAttachment
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITCrashDetails
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITCrashManager
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITCrashMetaData
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITFeedbackActivity
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITFeedbackComposeViewController
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITFeedbackListViewController
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITFeedbackManager
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITHockeyAttachment
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITHockeyBaseManager
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITHockeyBaseViewController
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITMetricsManager
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITStoreUpdateManager
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITUpdateManager
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITUpdateViewController
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+Field=kBITAuthenticatorErrorDomain
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+Field=kBITCrashErrorDomain
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+Field=kBITFeedbackErrorDomain
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+Field=kBITHockeyErrorDomain
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+Field=kBITUpdateErrorDomain
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+Function=sqlite3_close
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_close_v2
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_enable_shared_cache
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_interrupt
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_finalize
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_reset
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_clear_bindings
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_stmt_status
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_parameter_name
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_database_name
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_database_name16
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_decltype
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_decltype16
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_name
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_name16
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_origin_name
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_origin_name16
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_table_name
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_table_name16
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_text
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_text16
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_errmsg
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_db_readonly
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_db_filename
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_prepare
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_prepare_v2
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_db_status
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_complete
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_compileoption_used
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_compileoption_get
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_table_column_metadata
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_text
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_text16
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_enable_load_extension
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_load_extension
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_libversion
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_libversion_number
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_sourceid
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_malloc
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_realloc
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_free
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_open
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_open_v2
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_vfs_find
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_open16
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_last_insert_rowid
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_changes
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_total_changes
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_memory_used
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_memory_highwater
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_status
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_shutdown
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_busy_timeout
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_blob
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_zeroblob
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_double
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_int
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_int64
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_null
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_text
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_parameter_count
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_parameter_index
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_count
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_data_count
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_step
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_sql
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_double
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_int
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_int64
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_blob
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_bytes
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_type
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_aggregate_count
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_blob
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_bytes
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_double
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_int
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_int64
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_type
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_user_data
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_blob
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_double
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_error
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_int
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_int64
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_null
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_text
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_zeroblob
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_error_toobig
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_error_nomem
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_error_code
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_aggregate_context
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_text16
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_error16
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_text16
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_config
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_create_function_v2
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_create_collation
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_update_hook
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_commit_hook
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_profile
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_progress_handler
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_trace
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_rollback_hook
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_db_handle
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_next_stmt
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_stmt_busy
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_stmt_readonly
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_exec
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_get_autocommit
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_extended_result_codes
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_errcode
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_extended_errcode
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_errstr
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_log
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_file_control
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_backup_init
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_backup_step
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_backup_finish
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_backup_remaining
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_backup_pagecount
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_blob_open
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_blob_write
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_blob_read
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_blob_bytes
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_blob_close
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_wal_autocheckpoint
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_wal_checkpoint
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_wal_checkpoint_v2
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_set_authorizer
+	/Users/PrajaktaShinde/Documents/hocky app integration/XamarinNativeTemplate/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

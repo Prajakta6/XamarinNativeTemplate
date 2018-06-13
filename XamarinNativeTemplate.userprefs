@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{CC63271D-45DC-4B29-8B54-E423A1D6B405}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/NirajWadikar/Projects/XamarinNativeTemplate/XamarinNativeTemplate/Helpers/Security.cs" relfile="XamarinNativeTemplate/Helpers/Security.cs" line="34" column="1" />
+      <Breakpoint file="/Users/NirajWadikar/Projects/XamarinNativeTemplate/XamarinNativeTemplate/Helpers/Security.cs" relfile="XamarinNativeTemplate/Helpers/Security.cs" line="36" column="1" />
+      <Breakpoint file="/Users/NirajWadikar/Projects/XamarinNativeTemplate/XamarinNativeTemplate/Helpers/Security.cs" relfile="XamarinNativeTemplate/Helpers/Security.cs" line="44" column="1" />
+      <Breakpoint file="/Users/NirajWadikar/Projects/XamarinNativeTemplate/XamarinNativeTemplate/Helpers/Security.cs" relfile="XamarinNativeTemplate/Helpers/Security.cs" line="45" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinNativeTemplate.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamarinNativeTemplate.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.624368F0-1D07-4144-9EA2-C7E9F92AB5CF">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.XamarinNativeTemplate.iOS>
+</Properties>

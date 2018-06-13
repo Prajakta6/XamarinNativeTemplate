@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_add_new_emp" android:icon="@drawable/add_participants" app:showAsAction="always" />
+    <item android:id="@+id/action_sort_emp" android:icon="@drawable/sort" app:showAsAction="always" />
+</menu>

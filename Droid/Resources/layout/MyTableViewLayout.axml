@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:fitsSystemWindows="true">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/material_deep_teal_500">
+    <!-- Include the Toolbar for page -->
+    <!--<include
+            android:id="@id/toolbar"
+            layout="@layout/toolbar" />-->
+    <!-- List View Layout -->
+        <ImageView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/tileIcon"
+            android:src="@drawable/sort"
+            android:layout_gravity="right"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="10dp"
+            android:visibility="visible" />
+        <ListView
+            android:id="@+id/myListView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none"
+            android:dividerHeight="5.0sp"
+            android:divider="@color/blue_text_color" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background_material_light"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp">
+    <TextView
+        android:id="@+id/empNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:maxLines="1"
+        android:layout_gravity="center_vertical"
+        android:text="Employee Name"
+        android:textSize="12dp"
+        android:textColor="@color/bright_foreground_material_light" />
+    <TextView
+        android:id="@+id/empPhoneTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:maxLines="1"
+        android:layout_gravity="center_vertical"
+        android:text="Employee Name"
+        android:textSize="12dp"
+        android:textColor="@color/bright_foreground_material_light" />
+    <TextView
+        android:id="@+id/empDOBTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:maxLines="1"
+        android:layout_gravity="center_vertical"
+        android:text="1234567890"
+        android:textSize="10dp"
+        android:textColor="@color/blue_text_color" />
+    <TextView
+        android:id="@+id/empEmailTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:maxLines="1"
+        android:layout_gravity="center_vertical"
+        android:text="1234567890"
+        android:textSize="10dp"
+        android:textColor="@color/blue_text_color" />
+</LinearLayout>
